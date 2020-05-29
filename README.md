@@ -22,6 +22,3 @@
 ### 客户端
 * `npm install` 安装依赖
 * `npm run serve` 运行服务
-
-### 帮助
-**如遇到无法解决的问题可以私信我或者通过邮箱[leavehao@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGhhZXJhbGVrRGJrfGllbWgqZ2tp)联系我**
